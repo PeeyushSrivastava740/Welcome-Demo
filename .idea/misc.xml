@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/vision/AndroidStudioProjects/DemoApp/app/src/main/res/drawable/bottom_sheet_bg.xml" value="0.1575" />
+        <entry key="..\:/Users/vision/AndroidStudioProjects/DemoApp/app/src/main/res/drawable/circle_shape.xml" value="0.18" />
+        <entry key="..\:/Users/vision/AndroidStudioProjects/DemoApp/app/src/main/res/drawable/circular_progress_bar.xml" value="0.1" />
+        <entry key="..\:/Users/vision/AndroidStudioProjects/DemoApp/app/src/main/res/drawable/lft_half_border.xml" value="0.1575" />
+        <entry key="..\:/Users/vision/AndroidStudioProjects/DemoApp/app/src/main/res/drawable/ryt_half_border.xml" value="0.1575" />
+        <entry key="..\:/Users/vision/AndroidStudioProjects/DemoApp/app/src/main/res/layout/activity_demo.xml" value="0.1" />
+        <entry key="..\:/Users/vision/AndroidStudioProjects/DemoApp/app/src/main/res/layout/activity_home.xml" value="0.16" />
+        <entry key="..\:/Users/vision/AndroidStudioProjects/DemoApp/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/vision/AndroidStudioProjects/DemoApp/app/src/main/res/layout/fragment_blank.xml" value="0.15833333333333333" />
+        <entry key="..\:/Users/vision/AndroidStudioProjects/DemoApp/app/src/main/res/layout/fragment_first.xml" value="0.15833333333333333" />
+        <entry key="..\:/Users/vision/AndroidStudioProjects/DemoApp/app/src/main/res/layout/fragment_home.xml" value="0.18" />
+        <entry key="..\:/Users/vision/AndroidStudioProjects/DemoApp/app/src/main/res/layout/fragment_second.xml" value="0.15833333333333333" />
+        <entry key="..\:/Users/vision/AndroidStudioProjects/DemoApp/app/src/main/res/layout/fragment_third.xml" value="0.15833333333333333" />
+        <entry key="..\:/Users/vision/AndroidStudioProjects/DemoApp/app/src/main/res/layout/item.xml" value="0.17395833333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
